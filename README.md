@@ -17,7 +17,7 @@
 <table>
 <tr>
 <!--GIF -->
-<td><img src="https://github.com/mizchibipotatochan/Hi/blob/master/mizchibipotatochanW&ADev.gif" alt="GIF" width="250"></td>
+<td><img src="https://github.com/mizchibipotatochan/mizchibipotatochan/blob/master/mizchibipotatochanW%26ADev.gif" alt="GIF" width="250"></td>
 <!-- About me -->
 <td>
 <h2 align="center"> 👩‍💻 About me </h2>
@@ -73,7 +73,7 @@
 <!-- GIF -->
 <td>
 <h2 align="center">:sparkles: Have fun coding! :sparkles:</h2>
-<p align="center"><img src="https://github.com/mizchibipotatochan/Hi/blob/master/mizchibipotatochanDev.gif" alt="GIF" width="270"></p>
+<p align="center"><img src="https://github.com/mizchibipotatochan/mizchibipotatochan/blob/master/mizchibipotatochanDev.gif" alt="GIF" width="270"></p>
 </td>
 </tr>
 </table>
