@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=mizchibipotatochan&style=for-the-badge)
 [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30"/>](https://www.instagram.com/mizchibipotatochan/)
-[![Gmail](https://img.shields.io/badge/-mizchibipotatochan12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](mizchibipotatochan12@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mizchibipotatochan12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=yellow)](https://mail.google.com)
 
 
 <h1 align="center" class="greeting">👋 W E L C O M E!👋</h1>
